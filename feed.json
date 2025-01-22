@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Paradigm Pet Professionals",
+    "description": "",
+    "home_page_url": "https://infinited24.github.io/ParadigmPet",
+    "feed_url": "https://infinited24.github.io/ParadigmPet/feed.json",
+    "user_comment": "",
+    "icon": "https://infinited24.github.io/ParadigmPet/media/website/Picture4.png",
+    "author": {
+        "name": "Dbuilds"
+    },
+    "items": [
+    ]
+}

@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://infinited24.github.io/ParadigmPet/sitemap.xml
