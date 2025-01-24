@@ -1,3 +1,7 @@
+Handlebars.registerHelper('isActive', function(url) {
+    return window.location.href === url ? 'active' : '';
+});
+
 // Sticky header position on page scrolling up
 const header = document.querySelector('.js-header');
 const stickyClass = 'sticky';
@@ -617,3 +621,4 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 })();
+

@@ -2190,3 +2190,8 @@ textarea {
   -webkit-transform: none;
           transform: none;
 }
+
+.active {
+  background-color: #c21f1f; 
+  font-weight: bold; 
+}
